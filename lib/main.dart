@@ -5,6 +5,11 @@ void main() {
   runApp(const MyApp());
 }
 
+//? soru işaretli comment / sonra bakacem buraya
+//* yeşil comment / not alıyorum
+//! kırmızı comment / hata ve uyarı var burada
+// TODO: yapılacak şeyleri buraya yazıyorum
+// // işi bitmiş comment
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
